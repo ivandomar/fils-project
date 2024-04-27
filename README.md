@@ -1,6 +1,8 @@
 # FILS
  *Scaffold de projeto ágil desenvolvido como MVP da sprint de Gestão de Projetos e Requisitos Ágeis da minha pós-graduação na PUC Rio.*
 
+ Veja a explicação em vídeo no link: [Vídeo explicativo](https://www.youtube.com/watch?v=tenWZSlpWps)
+
 
  ## Escopo
 
