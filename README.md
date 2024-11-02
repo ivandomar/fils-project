@@ -1,43 +1,43 @@
 # FILS
- *Scaffold de projeto ágil desenvolvido como MVP da sprint de Gestão de Projetos e Requisitos Ágeis da minha pós-graduação na PUC Rio.*
+*Agile project scaffold for a coiffeur benefits club app*
 
- Veja a explicação em vídeo no link: [Vídeo explicativo](https://www.youtube.com/watch?v=tenWZSlpWps)
+ <!-- Veja a explicação em vídeo no link: [Vídeo explicativo](https://www.youtube.com/watch?v=tenWZSlpWps) -->
 
 
- ## Escopo
+ ## Scope
 
- Fils é um projeto de software pensado para acessibilizar a estética capilar feminina. É uma ideia voltada para a comunidade de usuárias de mega-hair e apliques (as principais clientes), proprietários de salões de estética capilar e aplicadoras de mega-hair; sendo estes dois últimos os principais stakeholders.
- O projeto foi idealizado considerando uma equipe Scrum contendo:
+ Fils is a software project designed to ease the access to female hair styling assets. It's an insight aiming the mega-hair users community (the main costumers), hair salon owners e mega-hair professionals; as the latters been the main stakeholders.
+ The scrum project was built having in mind a scrum team composed by:
 
  * Product Owner
  * Scrum Master
- * 3 engenheiros de software
+ * 3 software engineers
 
 
  ## Lean Inception
 
- O projeto foi concebido usando o [Lean Inception](https://caroli.org/lean-inception-3/), resultando em um sequenciamento de features, um MVP Canvas e definição de um MVP e 3 incrementos de valor.
+ The project was conceived using the [Lean Inception](https://caroli.org/lean-inception-3/) method, resulting in a feature sequence of approach, a MVP canvas and a MVP definition with 3 business increments of value. 
 
- Todo o processo foi documentado em um quadro do Miro disponível para visualização neste link: [Lean Inception do Fils no Miro](https://miro.com/app/board/uXjVKZPKR7I=/?share_link_id=746167656525)
+ The whole development proccess was documented in a Miro board available in this link: [Fils Lean Inception at Miro](https://miro.com/app/board/uXjVKZPKR7I=/?share_link_id=746167656525)
 
 
- ## Projeto Scrum
+ ## Scrum project
 
-Com o sequenciamento de features e o MVP Canvas obtido, um backlog de produto ágil foi construído na plataforma Jira com as seguintes métricas:
+ With the feature approaching sequence and the MVP built, a product backlog was built using Jira Software with the following stats:
 
-* 4 Épicos
+* 4 Epics
 * 19 User Stories
 * 347 Story Points
 
-Foi feito o refinamento de 5 user stories, com requisitos funcionais, não funcionais, de domínio (regras de negócio), critérios de aceitação, DoR e DoD; o que deu origem à primeira Sprint, cujo objetivo é a concretização do MVP do software.
+5 user stories were refined and detailed, acquiring some functional, non-functional and domain requirements, acceptance criteteria, DoR, DoD; originating the first project sprint plan, whose goal is the build of the app MVP.
 
-Evidências do backlog do produto estão disponíveis no arquivo [product-backlog.pdf](https://github.com/ivandomar/fils-project/blob/main/product-backlog.pdf)
+Product backlog evidence can be found in file: [product-backlog.pdf](https://github.com/ivandomar/fils-project/blob/main/product-backlog.pdf)
 
-Evidências do backlog do sprint estão disponíveis no arquivo [sprint-backlog.pdf](https://github.com/ivandomar/fils-project/blob/main/sprint-backlog.pdf)
+Sprint backlog evidence can be found in file: [sprint-backlog.pdf](https://github.com/ivandomar/fils-project/blob/main/sprint-backlog.pdf)
 
 
-## Protótipo de interface
+## UI lo-fi prototype
 
-Por fim, para dar suporte às user stories da primeira sprint, foram desenvolvidos, na ferramenta Figma, protótipos de baixa fidelidade das interfaces referentes a estas user stories.
+Lastly, to support the users stories proposed in the first sprint, low fidelity user interface prototypes were developed using the Figma app.
 
-O projeto original está disponível neste link: [Protótipos no Figma](https://www.figma.com/file/L8aEFRPMYNfX6afMfHc1Wi/Fils?type=design&node-id=202-5106&mode=design)
+Original UI project is available in this link: [Figma prototypes](https://www.figma.com/file/L8aEFRPMYNfX6afMfHc1Wi/Fils?type=design&node-id=202-5106&mode=design)
